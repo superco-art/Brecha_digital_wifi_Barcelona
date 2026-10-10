@@ -34,7 +34,7 @@
 
 ---
 
-## 💡 Explicación Didáctica de un Concepto Técnico
+## 💡 Explicación Didáctica 
 
 ### ¿Qué es un DataFrame en Pandas?
 
@@ -88,7 +88,7 @@ Para resolver las preguntas de negocio sobre la infraestructura digital, traslad
 
 ## 📢 Storytelling con Datos: Del Análisis a la Decisión
 
-### 1. Conclusiones Clave (Lenguaje No Técnico)
+### 1. Conclusiones Clave 
 * **Distribución Territorial Desigual:** La presencia de redes Wi-Fi públicas en Barcelona está fuertemente concentrada en distritos con alta presencia de equipamientos municipales (como bibliotecas o centros cívicos), dejando ciertas áreas con menor densidad de puntos.
 * **Brecha en Zonas Vulnerables:** Existen barrios clasificados con una vulnerabilidad socioeconómica 'Alta' que cuentan con una oferta muy reducida de infraestructura Wi-Fi gratuita (menos de 3 puntos de acceso), lo que limita las oportunidades de inclusión digital para hogares con menos ingresos.
 
